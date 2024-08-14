@@ -1,1 +1,3 @@
-new.txt
+./idea/*
+gradle/*
+.DS_Store
