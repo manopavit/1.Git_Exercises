@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 ./idea/*
 gradle/*
 .DS_Store
+=======
+./new.txt
+>>>>>>> d6b4878 (New update)
